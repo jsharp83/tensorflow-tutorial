@@ -15,6 +15,7 @@ This repository is based on tensorflow 2.0 and aims to be easy to follow while s
 
 2. Intermediate
     * [Convolutional Variational Autoencoder with MNIST dataset](tutorials/02.%20%20Intermediate/04.%20CVAE.ipynb)
+    * [Basic GAN with Safari dataset](tutorials/02.%20%20Intermediate/05.%20GAN_Safari.ipynb)
 
 3. Advanced
 
